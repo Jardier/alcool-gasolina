@@ -5,4 +5,4 @@ Nesse projeto iremos aprender conceitos básicos, como: Recuperar valores em cai
 
 ### Imagem do App
 
-![Imagem APP](https://github.com/Jardier/minhas-anotacoes/blob/master/app/src/main/res/drawable/imagem_app.png)
+![Imagem APP](https://github.com/Jardier/alcool-gasolina/blob/master/app/src/main/res/drawable/imagem_app.PNG)
